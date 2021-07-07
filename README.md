@@ -1,2 +1,3 @@
 # DjangoBlog
-this was made while learning to use django, I followed the popular tutorial by Corey Schafer 
+this was made while learning to use django, I followed the popular tutorial by Corey Schafer, slightly modified by me in some places and the UI as well, but very little changes. I plan to make another django project after my current project is wrapped up. This was mainly for learning.
+with minor changes to the color scheme, I am hosting this on https://www.orlandocodecave.com the color changes were to make it match the color of the flag of orlando, I admit its awful for color choice. This is a temporary website for this domain as I plan to re make the blog using django from the ground up so I can call it my own.
